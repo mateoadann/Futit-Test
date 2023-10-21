@@ -1,0 +1,4 @@
+Hibernate is an Object-Relational-Mapping (ORM) framework for Java.
+
+This technology helps when you have to work with relational database tables, but you can work with Java classes instead.
+Basically, Hibernate makes the work easier because it makes the code more portable and requires less maintenance.
